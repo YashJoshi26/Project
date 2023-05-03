@@ -394,7 +394,7 @@ body {
     flex-direction: column;
     justify-content: space-between;
     overflow: hidden;
-    padding: 43px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
 }
 
 .navcontainer {
