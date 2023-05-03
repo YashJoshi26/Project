@@ -31,10 +31,10 @@
                 vehicula sit amet.
             </p>
             <div class="footer-icons">
-                <a href="#"><i class="fa-brands fa-facebook"></i></a>
-                <a href="#"><i class="fa-brands fa-twitter"></i></a>
-                <a href="#"><i class="fa-brands fa-linkedin"></i></a>
-                <a href="#"><i class="fa-brands fa-github"></i></a>
+                <a href="#"><i id="facebook" class="fa-brands fa-facebook"></i></a>
+                <a href="#"><i id="twitter" class="fa-brands fa-twitter"></i></a>
+                <a href="#"><i id="instagram" class="fa-brands fa-instagram"></i></a>
+                <a href="#"><i id="youtube" class="fa-brands fa-youtube"></i></a>
             </div>
         </div>
         <!-- <div class="credit">&copy; copyright @ 2023 by <span>Mr.Yash Joshi</span> | all rights reserved!</div> -->
